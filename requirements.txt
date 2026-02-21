@@ -1,10 +1,5 @@
-numpy
-langchain
-langchain_groq
-langchain_core
-langchain_community
 fastapi
-uvicorn
+uvicorn[standard]
 pymongo
 python-dotenv
 groq
